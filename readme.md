@@ -54,6 +54,7 @@
 
  - [redux-storage](https://github.com/michaelcontento/redux-storage) - Persistence layer for Redux with flexible backends.
  - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store.
+ - [redux-cookies-middleware](https://github.com/grofers/redux-cookies-middleware) - a Redux middleware which syncs a subset of your Redux store state with cookies.
 
 
 ### Side Effects
